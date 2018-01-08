@@ -1,8 +1,6 @@
 import random
 import math
 import os
-#import matplotlib.pyplot as plt
-#import numpy as np
 
 def activationSigmoid(x):
    return 1 / (1 + math.exp(-x))
@@ -80,6 +78,3 @@ while True:
 		for i in range(n):
 			print(str(i + 1) + " = " + str(w[i]))
 		break
-
-
-	#print("out = " + str(activatedOut))
