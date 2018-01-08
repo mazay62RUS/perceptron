@@ -8,6 +8,8 @@
 
 А а надо скачать несколько пакетов:
 
-1.pip install numpy
-2.pip install matplotlib
-3.pip install math
+***1. pip install numpy
+
+***2. pip install matplotlib
+
+***3. pip install math
