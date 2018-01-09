@@ -6,7 +6,7 @@ def activationSigmoid(x):
    return 1 / (1 + math.exp(-x))
 
 def activationLinear(x):
-    if x > 0.1:
+    if x > 0.5:
         return 1
     else:
         return 0
